@@ -1,0 +1,11 @@
+Packages/
+DevPackages/
+wally.lock
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.lock.bak
+.DS_Store
+__MACOSX

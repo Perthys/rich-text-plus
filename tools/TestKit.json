@@ -1,0 +1,7 @@
+{
+	"Source": "../luau-regex",
+	"Name": "rich-text-plus",
+	"Port": 34900,
+	"Folder": "JEST_RichTextPlus",
+	"EnvPrefix": "RTP_TEST"
+}

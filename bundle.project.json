@@ -1,0 +1,18 @@
+{
+    "name": "RichTextPlus",
+    "tree": {
+        "$className": "Folder",
+        "RichTextPlus": {
+            "$path": "src"
+        },
+        "XML": {
+            "$path": "Packages/XML.lua"
+        },
+        "Trove": {
+            "$path": "Packages/Trove.lua"
+        },
+        "_Index": {
+            "$path": "Packages/_Index"
+        }
+    }
+}

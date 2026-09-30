@@ -1,0 +1,15 @@
+{
+    "name": "rich-text-plus-dev",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Packages": {
+                "$path": "Packages",
+                "RichTextPlus": {
+                    "$path": "src"
+                }
+            }
+        }
+    }
+}

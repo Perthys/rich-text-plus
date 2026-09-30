@@ -1,0 +1,36 @@
+[package]
+name = "perthys/rich-text-plus"
+version = "0.2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["Perthys <perth@perthys.cc>"]
+exclude = [
+    'Packages',
+    'dev.project.json',
+    'bundle.project.json',
+    'sourcemap.json',
+    'aftman.toml',
+    'wally.lock',
+    '*.rbxl',
+    '*.rbxlx',
+    '*.rbxm',
+    '*.rbxmx',
+    '.vscode',
+    '.claude',
+    '.lunetest',
+    'tests',
+    'examples',
+    'tools',
+    'DevPackages',
+    'test.project.json',
+    'assets',
+]
+
+[dependencies]
+XML = "perthys/xml-parser@2.1.0"
+Trove = "sleitnick/trove@1.8.0"
+
+[dev-dependencies]
+Jest = "roblox/jest@3.20.1"
+JestGlobals = "roblox/jest-globals@3.20.1"
