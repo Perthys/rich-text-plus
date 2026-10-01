@@ -22,7 +22,7 @@ Untrusted text is gated by intents, bitfields of the tags a label may use <br>
 - `<md>` markdown bodies
 - Custom tags and effects inside `<customclass>`
 - Interactive elements: query and bind any tag with Roblox `QueryDescendants` selectors, `hovercolor` / `presscolor` attributes
-- Intent flags like discord.js, with presets `Default`, `Trusted`, `Chat`, `Plain`
+- Intent flags, with presets `Default`, `Trusted`, `Chat`, `Plain`
 - The label's own size, font, color, wrapping, `TextScaled`, `AutomaticSize`, `MaxVisibleGraphemes`, `UIPadding`, `UIStroke`
 
 ## Install
